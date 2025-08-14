@@ -1,18 +1,14 @@
 a=input('Enter the First Number: ')
 b=input('Enter the Second Number: ')
-Addition=5
-Addition+=10
-print('Addition', Addition)
-Subtraction=5
-Subtraction-=10
-print('Subtraction', Subtraction)
-Multiplication=5
-Multiplication*=10
-print('Multiplication', Multiplication)
-Division=5
-Division/=10
-print('Division', Division)
-
-
-
-
+a=5
+a+=10
+print(a)
+b=5
+b-=10
+print(b)
+c=5
+c*=10
+print(c)
+d=5
+d/=10
+print(d)
